@@ -1,2 +1,2 @@
 # IsabelaFernandesGuerraDeMorais
-Vencedora do desafio change the game e aluna do colégio cotemig. Realizo na escola o ensino médio técnico em informática com foco em mobile e realizo pelo Alura o curso de desenvolvedora de jogos android.
+Vencedora do desafio Change the Game 2019, da Google Brasil e aluna do cotemig. Gosto muito das áreas de desenvolvimento mobile, de games, e pretendo seguir minha carreira com elas.
